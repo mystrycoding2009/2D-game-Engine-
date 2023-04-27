@@ -1,6 +1,6 @@
 # Coding a 2D Game Engine in Java
 
-This is the repository for a YouTube series [here](https://www.youtube.com/watch?v=VyKE7vz65rY&list=PLtrSb4XxIVbp8AKuEAlwNXDxr99e3woGE). If you want to run the code yourself follow these instructions:
+If you want to run the code yourself follow these instructions:
 
 ## To Run
 
